@@ -1,5 +1,5 @@
 # GameGirlOderSo
-## A Retropie console build around the Raspberry Pi Zero
+## A Retropie console built around the Raspberry Pi Zero
 ![](https://github.com/ragon000/GameGirlOderSo/raw/master/pic.PNG)
 
 ## Used Parts (just type it into ebay)
