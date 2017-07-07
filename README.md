@@ -1,6 +1,6 @@
 # GameGirlOderSo
 ## A Retropie console
-
+![](https://github.com/ragon000/GameGirlOderSo/raw/master/pic.PNG)
 
 ## Used Parts (just type it into ebay)
 - 5x(USB-Datenleitungen OTG Micro USB Telefonleitungen USB OTG Adapterkabel GY
