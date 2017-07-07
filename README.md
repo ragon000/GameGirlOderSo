@@ -1,5 +1,5 @@
 # GameGirlOderSo
-## A Retropie console
+## A Retropie console build around the Raspberry Pi Zero
 ![](https://github.com/ragon000/GameGirlOderSo/raw/master/pic.PNG)
 
 ## Used Parts (just type it into ebay)
@@ -13,3 +13,4 @@
 - 100PCS 6x6 3.1mm-13mm SPST Mini Micro Momentary Tactile Push PCB Button Switch
 - 10PCS 40Pin 2.54mm Single Row Straight Male Männlich Pin Header Strip Streifen
 - 5PCS PAM8403 Mini Digital Power Amplifier Board AMP Class D 2*3W 2.5-5V Input
+- [Raspberry PI Zero](https://www.raspberrypi.org/products/#buy-now-modal)
