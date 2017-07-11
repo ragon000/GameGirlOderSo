@@ -1,4 +1,4 @@
-# GameGirlOderSo
+# GameKamp
 ## A Retropie console built around the Raspberry Pi Zero
 ![](https://github.com/ragon000/GameGirlOderSo/raw/master/pic.PNG)
 
