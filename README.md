@@ -1,4 +1,5 @@
 # GameKamp
+# Don't build it, it dosen't fit yet
 ## A Retropie console built around the Raspberry Pi Zero
 ![](https://github.com/ragon000/GameGirlOderSo/raw/master/pic.PNG)
 
